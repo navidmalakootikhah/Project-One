@@ -1,0 +1,1 @@
+print" Fantastic 5"
